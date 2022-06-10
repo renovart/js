@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//renovart.github.io/js/static/css/main.5bd682e5.css",
+    "main.js": "/http//renovart.github.io/js/static/js/main.03e2fded.js",
+    "static/media/stand.png": "/http//renovart.github.io/js/static/media/stand.0f777a19f3d386482273.png",
+    "static/media/portfolio5.png": "/http//renovart.github.io/js/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/Me-about.jpg": "/http//renovart.github.io/js/static/media/Me-about.bbc2e68acc4f13ea313d.jpg",
+    "static/media/cv.docx": "/http//renovart.github.io/js/static/media/cv.f24cf28b1366a2f7eebc.docx",
+    "static/media/portfolio2.jpg": "/http//renovart.github.io/js/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/http//renovart.github.io/js/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/http//renovart.github.io/js/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/http//renovart.github.io/js/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/http//renovart.github.io/js/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/http//renovart.github.io/js/index.html",
+    "main.5bd682e5.css.map": "/http//renovart.github.io/js/static/css/main.5bd682e5.css.map",
+    "main.03e2fded.js.map": "/http//renovart.github.io/js/static/js/main.03e2fded.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bd682e5.css",
+    "static/js/main.03e2fded.js"
+  ]
+}
